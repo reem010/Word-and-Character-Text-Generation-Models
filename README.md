@@ -1,7 +1,7 @@
 # Word-and-Character-Text-Generation-Models
 
 ## Dataset
-The dataset is about NLP, image processing, and AI.
+The dataset is generated about NLP, image processing, and AI.
 
 ## Preprocessing
 - Removed numbers, non-English words, punctuations, and any weird words
